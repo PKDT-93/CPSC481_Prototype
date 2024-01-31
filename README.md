@@ -1,4 +1,4 @@
-# Library User Interface Prototype
+# UXBiblio Library Prototype
 
 ## Setup
 
